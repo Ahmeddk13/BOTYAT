@@ -1,4 +1,4 @@
-token = "EAANAV3M5zh0BAEXTQBKGVmeZC7SWqPZBWOmGeyYNsKB5eclN0KYg4iNvKNMOYyQ7VwCwtCdfSqwt06Nga2QhRNHCq5V8uVErypmvQEFsbFQICzegdaZCw2Y7sPkYXzFPZB8qlYpqN8fCYb3EhPuLGWMchLtBA43aULAdzDPJVPtBBPEbbW9D"
+token = "EAANAV3M5zh0BO6Ag1s5qRgU0OkudimId5hVZBhejvb2P5qiEvu4zjhZCP3tcnD7iBpctKX45uesrQBEkZAk5g2KHnWYh4IvZAlklTkFZAGdo6RAExdOCBOx7yaTiZBtsfLVMWa9cpbPNKQH1WbFMc1CESzoZCfn0xvlKO6zs89FJgIsanV14YDNoZABHZChlgjHkG"
 namebot = "ｂｏｔｙａｔ"
 start_down = "ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ sᴛᴀʀᴛᴇᴅ📟📥"
 end_down = "ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ ғɪɴɪꜱʜᴇᴅ📟✅"
